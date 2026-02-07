@@ -11,6 +11,8 @@ namespace POO_practica
         static void Main(string[] args)
         {
             Console.WriteLine("hola mundo");
+            Console.WriteLine("segundo hola mundo");
+
         }
     }
 }
